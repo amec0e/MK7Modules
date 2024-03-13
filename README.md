@@ -1,18 +1,17 @@
 # MK7Modules
 Modules which I edited for the WiFi Pineapple MK7.
 
-
 ## DISCLAIMER:
 
 Please keep in mind these are not entirely well crafted. There may also be potential bugs, however they perform the operations for the intended tasks!
 
 Please **use at your own risk!**
 
-Myself (amec0e) assumes no liability or responsibility for any misuse or unintended consequences resulting from the use of these tools.
+Myself (amec0e) assumes NO liability or responsibility for any misuse or unintended consequences resulting from the use of these tools.
 
 These tools are provided with the expectation that users will comply with all applicable laws and regulations. They are intended for educational and research purposes only.
 
-**Please note:** Myself (amec0e) does not provide support for these tools.
+**Please note:** Myself (amec0e) DOES NOT provide support for these tools.
 
 ## MDK4E Module:
 
